@@ -1,5 +1,5 @@
-#include<iostream>
-#include<string>
+#include<iostream>//для реализации ввода/вывода
+#include<string>//для работы со строками
 
 int main()
 {
